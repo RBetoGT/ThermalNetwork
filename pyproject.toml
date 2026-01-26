@@ -35,7 +35,7 @@ dependencies = [
   "pandas ~= 2.0",
   "SecondaryCoolantProps ~= 1.3",
   "scipy ~= 1.15",
-  "modelica-builder ~= 0.6.0"
+  "modelica-builder >= 0.6,< 0.8"
 ]
 
 [project.optional-dependencies]

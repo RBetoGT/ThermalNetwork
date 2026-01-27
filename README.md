@@ -8,7 +8,7 @@ A library for sizing multiple ground heat exchangers distributed around a single
 
 # Documentation
 
-Available at https://nrel.github.io/ThermalNetwork/
+Available at https://natlabrockies.github.io/ThermalNetwork/
 
 # Usage
 
@@ -16,7 +16,7 @@ This package has a command-line interface, intended to be used via URBANopt. To 
 
 # Developer installation
 
-- Clone the repository: `git clone https://github.com/NREL/ThermalNetwork.git`
+- Clone the repository: `git clone https://github.com/NatLabRockies/ThermalNetwork.git`
 - Change directories into the repository: `cd ThermalNetwork`
 - We recommend using virtual environments on principle to avoid dependencies colliding between your Python projects. [venv](https://docs.python.org/3/library/venv.html) is the Python native solution that will work everywhere, though other options may be more user-friendly.
   - Some popular alternatives are:

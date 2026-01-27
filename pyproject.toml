@@ -15,7 +15,8 @@ dynamic = [
 ]
 authors = [
   { name="Matt Mitchell", email="mitchute@gmail.com" },
-  { name="Nathan Moore", email="nathan.moore@nrel.gov" },
+  { name="Nathan Moore", email="nathan.moore@nlr.gov" },
+  { name="Katherine Fleming", email="katherine.fleming@nlr.gov"}
 ]
 description = "A thermal network solver for GHE sizing."
 requires-python = ">=3.10,<3.14"
@@ -48,8 +49,8 @@ dev = [
 ]
 
 [project.urls]
-"Homepage" = "https://github.com/NREL/ThermalNetwork"
-"Bug Tracker" = "https://github.com/NREL/ThermalNetwork/issues"
+"Homepage" = "https://github.com/NatLabRockies/ThermalNetwork"
+"Bug Tracker" = "https://github.com/NatLabRockies/ThermalNetwork/issues"
 
 # https://setuptools.pypa.io/en/latest/userguide/package_discovery.html
 [tool.setuptools.packages.find]

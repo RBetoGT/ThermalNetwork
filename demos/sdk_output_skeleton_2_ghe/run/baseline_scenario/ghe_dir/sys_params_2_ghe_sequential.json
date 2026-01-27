@@ -5,7 +5,7 @@
       "load_model": "time_series",
       "load_model_parameters": {
         "time_series": {
-          "filepath": "C:\\Users\\tcharan\\Desktop\\NRELWork\\Gitrepos\\geojson-modelica-translator\\tests\\management\\data\\sdk_project_scraps\\run\\baseline_scenario\\2\\016_export_modelica_loads\\modelica.mos",
+          "filepath": "C:\\Users\\Desktop\\Work\\Gitrepos\\geojson-modelica-translator\\tests\\management\\data\\sdk_project_scraps\\run\\baseline_scenario\\2\\016_export_modelica_loads\\modelica.mos",
           "delta_temp_air_cooling": 10,
           "delta_temp_air_heating": 18,
           "has_liquid_cooling": true,
@@ -43,7 +43,7 @@
       "load_model": "time_series",
       "load_model_parameters": {
         "time_series": {
-          "filepath": "C:\\Users\\tcharan\\Desktop\\NRELWork\\Gitrepos\\geojson-modelica-translator\\tests\\management\\data\\sdk_project_scraps\\run\\baseline_scenario\\5\\016_export_modelica_loads\\modelica.mos",
+          "filepath": "C:\\Users\\Desktop\\Work\\Gitrepos\\geojson-modelica-translator\\tests\\management\\data\\sdk_project_scraps\\run\\baseline_scenario\\5\\016_export_modelica_loads\\modelica.mos",
           "delta_temp_air_cooling": 10,
           "delta_temp_air_heating": 18,
           "has_liquid_cooling": true,
@@ -81,7 +81,7 @@
       "load_model": "time_series",
       "load_model_parameters": {
         "time_series": {
-          "filepath": "C:\\Users\\tcharan\\Desktop\\NRELWork\\Gitrepos\\geojson-modelica-translator\\tests\\management\\data\\sdk_project_scraps\\run\\baseline_scenario\\5\\016_export_modelica_loads\\modelica.mos",
+          "filepath": "C:\\Users\\Desktop\\Work\\Gitrepos\\geojson-modelica-translator\\tests\\management\\data\\sdk_project_scraps\\run\\baseline_scenario\\5\\016_export_modelica_loads\\modelica.mos",
           "delta_temp_air_cooling": 10,
           "delta_temp_air_heating": 18,
           "has_liquid_cooling": true,

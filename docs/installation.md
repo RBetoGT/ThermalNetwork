@@ -4,4 +4,4 @@ ThermalNetwork is intended to be used via [URBANopt](https://docs.urbanopt.net).
 
 # Developer installation
 
-ThermalNetwork can be installed by cloning the repository (GitHub link at top) and following the [developer installation instructions](https://github.com/NREL/ThermalNetwork?tab=readme-ov-file#developer-installation).
+ThermalNetwork can be installed by cloning the repository (GitHub link at top) and following the [developer installation instructions](https://github.com/NatLabRockies/ThermalNetwork?tab=readme-ov-file#developer-installation).
